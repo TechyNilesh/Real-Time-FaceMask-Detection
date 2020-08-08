@@ -1,0 +1,10 @@
+numpy>=1.9.2
+Pillow==7.1.2
+opencv-python==4.3.0.36
+tensorflow==2.0.1
+urllib3==1.25.9
+h5py==2.10.0
+imutils==0.5.3
+opencv-python==4.3.0.36
+playsound==1.2.2
+streamlit
